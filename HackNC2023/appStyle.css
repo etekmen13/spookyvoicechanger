@@ -1,0 +1,16 @@
+QWidget{
+    background-color: transparent;
+}
+QMainWindow{
+    background-color: orange;
+}
+
+QLabel {
+    color:black;
+    background-color: transparent
+}
+QPushButton{
+    color:white;
+    background-color: orange;
+    
+}
